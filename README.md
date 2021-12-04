@@ -1,5 +1,6 @@
 # vue-transfrom-date-to-hebrew
 
+## The project get Musician name and transform his birthdate to hebrew format date using API calls.
 
 ## Project setup
 ```
