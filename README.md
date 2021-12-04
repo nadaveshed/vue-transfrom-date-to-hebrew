@@ -1,5 +1,6 @@
 # vue-transfrom-date-to-hebrew
 
+
 ## Project setup
 ```
 npm install
@@ -12,7 +13,7 @@ npm run serve
 
 ### Compiles and minifies for production
 ```
-npm run build
+npm run build -> (in dist folder there will create a html file to run the app)
 ```
 
 ### Lints and fixes files
